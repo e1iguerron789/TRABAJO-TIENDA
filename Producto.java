@@ -2,7 +2,7 @@ public class Producto {
 
     private String nombreproducto;
     private String tipo;
-
+    public String tipo;
     private int cantidadproducto;
 
     private int cantidadminima;
